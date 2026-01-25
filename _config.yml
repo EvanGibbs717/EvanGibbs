@@ -24,13 +24,13 @@ repository               : "EvanGibbs717/EvanGibbs"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Gibbs"
+  name             : "Evan Gibbs"
   pronouns         : # example: "she/her"  
-  bio              : "COOL"
-  location         : "North Macedonia"
-  employer         : "Red Brick University"
+  bio              : "--"
+  location         : "Dover, Pennsylvania"
+  employer         : "TBD"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "evangibbs717@gmail.com" 
 
   # Academic websites
   academia         : # URL
