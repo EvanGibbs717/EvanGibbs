@@ -1,10 +1,10 @@
 ---
-permalink: /aboutme/
-title: "About Me"
+permalink: /music/
+title: "Music"
 author_profile: true
 redirect_from: 
   - /md/
-  - /aboutme.html
+  - /music.html
 ---
 
-HELLO!
+My fav music is...
