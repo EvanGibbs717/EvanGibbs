@@ -1,10 +1,10 @@
 ---
-permalink: /aboutme/
-title: "About Me"
+permalink: /EvanGibbs/
+title: "Evan Gibbs"
 author_profile: true
 redirect_from: 
   - /md/
-  - /aboutme.html
+  - /EvanGibbs.html
 ---
 
-HELLO!
+YO!
