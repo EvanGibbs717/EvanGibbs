@@ -1,5 +1,5 @@
 ---
-permalink: /EvanGibbs/
+permalink: 
 title: "Evan Gibbs"
 author_profile: true
 redirect_from: 
