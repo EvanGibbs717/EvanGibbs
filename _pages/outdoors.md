@@ -1,10 +1,10 @@
 ---
-permalink: /aboutme/
-title: "About Me"
+permalink: /outdoors/
+title: "Outdoors"
 author_profile: true
 redirect_from: 
   - /md/
-  - /aboutme.html
+  - /outdoors.html
 ---
 
-HELLO!
+Outdoorsy me be like...
