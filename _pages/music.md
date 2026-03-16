@@ -7,4 +7,4 @@ redirect_from:
   - /music.html
 ---
 
-![My Music](topster.png)
+![My Music](images/topster.png)
