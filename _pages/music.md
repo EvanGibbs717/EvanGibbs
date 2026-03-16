@@ -7,4 +7,4 @@ redirect_from:
   - /music.html
 ---
 
-My fav music is...
+![My Music](topster.png)
