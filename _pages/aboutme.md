@@ -9,7 +9,7 @@ redirect_from:
 
 **Name:** Evan Gibbs  
 **Birthplace:** Dover, Pennsylvania  
-**Undergraduate Institution:** [York College of Pennsylvania](https://www.ycp.edu/)
+**Undergraduate Institution:** [York College of Pennsylvania](https://www.ycp.edu/)  
 **Graduate Institution:** TBD  
 **Curriculum Vitae:** FIX
 
