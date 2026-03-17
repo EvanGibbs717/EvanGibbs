@@ -15,4 +15,4 @@ redirect_from:
 
 **Me and My Family!**
 
-![Fam](.../images/FamPhoto.JPEG)
+![FAM](https://evangibbs717.github.io/EvanGibbs/images/FamPhoto.JPEG)
