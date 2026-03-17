@@ -1,11 +1,11 @@
 ---
-title: "Falls Lake Catch Report"
+title: "Pinchot Lake Fishing Report"
 date: 2026-03-14
 categories: outdoors
 tags: [fishing, bass]
 ---
 
-## Falls Lake – June 12
+## Pinchot Lake – June 12
 
 Caught 3 largemouth bass.
 
