@@ -26,3 +26,8 @@ Saturday was a pretty cold and blustery day for fishing (especially given it bei
 ![Fishing1](/images/Catfish1_Pinchot_3-14-26.JPG)
 ![Fishing2](/images/Catfish2_Pinchot_3-14-26.JPG)
 
+
+{{/* Absolute path test: */}} /images/Catfish1_Pinchot_3-14-26.JPG
+
+{{/* Relative path test: */}} ../../images/Catfish1_Pinchot_3-14-26.JPG
+
