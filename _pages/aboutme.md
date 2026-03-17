@@ -11,7 +11,7 @@ redirect_from:
 **Birthplace:** Dover, Pennsylvania  
 **Undergraduate Institution:** [York College of Pennsylvania](https://www.ycp.edu/)  
 **Graduate Institution:** TBD  
-**Curriculum Vitae:** [PDF](/files/CV_EvanGibbs_2026.pdf)
+**Curriculum Vitae:** [PDF](.../files/CV_EvanGibbs_2026.pdf)
 
 **Me and My Family!**
 
