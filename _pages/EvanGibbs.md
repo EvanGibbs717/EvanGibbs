@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Hello and welcome to the page!  
+
 I am Evan Gibbs, and this site is here as:  
 **(1)** a showcase of what I do   
 **(2)** a little hobby and repository for things I care about.  
