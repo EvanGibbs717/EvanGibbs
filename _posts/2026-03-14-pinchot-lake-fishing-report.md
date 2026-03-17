@@ -23,6 +23,6 @@ tags: [fishing, catfish]
 
 Saturday was a pretty cold and blustery day for fishing (especially given it being 80°F earlier in the week). I fished the opposing side of the dam at Pinchot Lake, just turning the bend. Orginially, the main target species was hybrid striped bass (*Morone chrysops* × *M. saxatilis*). However, I only managed to catch 3 decently sized channel catfish (*Ictalurus punctatus*). These fish were caught on a simple slip sinker rig with the rig leader constructed using *FOX* camouflage. The bait used was chicken liver purchased from *Giant*. All fish were taken in approximately 15 ft of water while fishing a steeper shelf at the given location.
 
-![Fishing](../images/Catfish1_Pinchot_3-14-26.JPG)
-![Fishing](../images/Catfish2_Pinchot_3-14-26.JPG)
+![Fishing1](../images/Catfish1_Pinchot_3-14-26.JPG)
+![Fishing2](../images/Catfish2_Pinchot_3-14-26.JPG)
 
