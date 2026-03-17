@@ -2,17 +2,22 @@
 title: "Pinchot Lake Fishing Report"
 date: 2026-03-14
 categories: outdoors
-tags: [fishing, bass]
+tags: [fishing, catfish]
 ---
 
-## Pinchot Lake – June 12
+## Pinchot Lake – March 14, 2026
 
-Caught 3 largemouth bass.
+**Location:** Pinchot Lake, Warrington Township, PA
 
-Largest: 4.2 lb
+**Coordinates:** 40°05'25.9"N 76°52'28.1"W
 
-Conditions:
-- cloudy
-- water temp ~72F
+**Time Fished:** 12:00 PM- 4:00 PM
+
+**Weather:** Overcast and windy (gusts of up to 15mph) 
+
+**Air Temperature:** 50°F (10°C)
+
+**Water Temperature:** 43°F (6.11°C)
+
 
 ![bass](/images/bass1.jpg)
