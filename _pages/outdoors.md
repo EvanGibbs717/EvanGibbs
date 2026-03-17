@@ -2,6 +2,7 @@
 permalink: /outdoors/
 title: "Outdoors"
 author_profile: true
+---
 
 # Catch Reports
 
