@@ -1,5 +1,5 @@
 ---
-title: "Pinchot Lake Fishing Report"
+title: "Pinchot Lake Fishing Report #2"
 date: 2026-03-22
 categories: outdoors
 tags: [fishing, catfish]
