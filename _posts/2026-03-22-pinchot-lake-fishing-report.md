@@ -13,7 +13,7 @@ tags: [fishing, catfish]
 
 **Time Fished:** 12:30 PM - 4:30 PM
 
-**Weather:** Overcast and windy (gusts of up to 15mph) 
+**Weather:** Sunny
 
 **Air Temperature:** 70°F (21°C)
 
