@@ -10,4 +10,4 @@ I absolutely love music and have spent (honestly) way too much time listening to
 
 ![My Music](../images/topster.png)
 
-The first album in this topster, "Animals" by Pink Floyd, is my favorite album of all time. I have listened to this record more times than I can remember. Below are some of my playlists (and many more are forthcoming!).
+
