@@ -1,6 +1,6 @@
 ---
 permalink: /aboutme/
-title: "About Me"
+title: ""
 author_profile: true
 redirect_from: 
   - /md/
@@ -13,6 +13,6 @@ redirect_from:
 **Graduate Institution:** [Northwestern University](https://www.mccormick.northwestern.edu/applied-math/)  
 **Curriculum Vitae:** [PDF](https://evangibbs717.github.io/EvanGibbs/files/CV_EvanGibbs_2026.pdf)
 
-**Me and My Family!**
+**If I'm not working, I'm probably fishing!**
 
-![FAM](https://evangibbs717.github.io/EvanGibbs/images/FamPhoto.JPEG)
+![FAM](https://evangibbs717.github.io/EvanGibbs/images/IMG_3376.jpg)
