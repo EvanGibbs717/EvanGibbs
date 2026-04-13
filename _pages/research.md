@@ -20,32 +20,30 @@ redirect_from:
 
 ### Optimal Sex-Structured Release Strategies of *Wolbachia*-infected *Aedes aegypti* Mosquitoes     
 
-**Presentation:** [Optimal control approach to developing sex-structured release strategies for
-dengue prevention](https://evangibbs717.github.io/EvanGibbs/files/CV_EvanGibbs_2026.pdf)
+[**Presentation**](https://evangibbs717.github.io/EvanGibbs/files/CV_EvanGibbs_2026.pdf)
 
-**Poster:** [Optimal control approach to developing sex-structured release strategies for
-dengue prevention](https://evangibbs717.github.io/EvanGibbs/files/CV_EvanGibbs_2026.pdf)
+[**Poster**](https://evangibbs717.github.io/EvanGibbs/files/CV_EvanGibbs_2026.pdf)
 
 ---
 
 ### Elucidating the Hetereogeneity of Wing Morphology in *D. melanogaster* using Wasserstein Geometry
 
-**Presentation:** [Elucidating the Hetereogeneity of Wing Morphology in *D. melanogaster* using Wasserstein Geometry](https://evangibbs717.github.io/EvanGibbs/files/CV_EvanGibbs_2026.pdf)
+[**Presentation**](https://evangibbs717.github.io/EvanGibbs/files/CV_EvanGibbs_2026.pdf)
 
-[**Poster:**](https://evangibbs717.github.io/EvanGibbs/files/Final_Poster_EG.pdf)
+[**Poster**](https://evangibbs717.github.io/EvanGibbs/files/Final_Poster_EG.pdf)
 
 ---
 
 ### Discrete Modeling of a Decoupled Aquaponics System
 
-**Poster:** [PDF](https://evangibbs717.github.io/EvanGibbs/files/CV_EvanGibbs_2026.pdf)
+[**Poster**](https://evangibbs717.github.io/EvanGibbs/files/CV_EvanGibbs_2026.pdf)
 
 ---
 
 ## Publications, Preprints, and Other Papers.
 
 - [The Representation of Positive Integers by
-Positive, Definite Quadratic Forms](https://evangibbs717.github.io/EvanGibbs/files/CV_EvanGibbs_2026.pdf)
+Positive, Definite Quadratic Forms](https://evangibbs717.github.io/EvanGibbs/files/LocalGlobal_EG.pdf)
 - Publication forthcoming for *Aedes aegypti*
 - Publication forthcoming for *D. melanogaster*
 - Publication forthcoming for Aquaponics 
