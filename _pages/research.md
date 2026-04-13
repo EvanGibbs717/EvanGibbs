@@ -34,7 +34,7 @@ redirect_from:
 
 - [The Representation of Positive Integers by
 Positive, Definite Quadratic Forms](https://evangibbs717.github.io/EvanGibbs/files/LocalGlobal_EG.pdf)
-- Publication forthcoming for *Aedes aegypti*
-- Publication forthcoming for *D. melanogaster*
-- Publication forthcoming for Aquaponics 
+- Working on Publication for *Aedes aegypti*
+- Working on Publication for *D. melanogaster*
+- Working on Publication for Aquaponics 
 
