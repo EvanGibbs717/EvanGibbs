@@ -26,7 +26,7 @@ redirect_from:
 
 ### Discrete Modeling of a Decoupled Aquaponics System
 
-[**Poster**](https://evangibbs717.github.io/EvanGibbs/files/CV_EvanGibbs_2026.pdf)
+[**Poster**](https://evangibbs717.github.io/EvanGibbs/files/ModelPoster.pdf)
 
 ---
 
