@@ -12,17 +12,25 @@ redirect_from:
 - Mathematical Ecology  
 - Dynamical Systems  
 - Optimal Control Theory
-- Analysis
 ---
 
 ## Research Projects (from most recent to oldest)
 
-### Optimal Sex-Structured Release Strategies of *Aedes aegypti* Mosquitoes     
-Dengue and other mosquito-borne illness have 
+### Optimal Sex-Structured Release Strategies of *Wolbachia*-infected *Aedes aegypti* Mosquitoes     
+This work developed a sex-structured dynamical model that links within-vector *Wolbachia* dynamics,
+including cytoplasmic incompatibility and vertical transmission, with between-host dengue transmis-
+sion. An optimal control framework is formulated to determine cost-effective releases of male and
+female *Aedes aegypti* over a finite intervention horizon. The approach is applied to three commonly
+used Wolbachia strains, such as *w*AlbB, *w*Mel, and *w*MelPop, to assess how strain specific fitness
+and viral blocking characteristics influence optimal release strategies. This analysis identified sex-
+structured releases that diverge from in-field release protocols, supporting the claim that commonly
+used release strategies may benefit from optimization with respect to sex. Differences among releases
+were also noted between the three strains, suggesting that sex-structured release schemes vary as a
+result of *Wolbachia* strain used.
 
 ---
 
-### Optimal Sex-Structured Release Strategies of *Aedes aegypti* Mosquitoes
+### Elucidating the Hetereogeneity of Wing Morphology in *D. melanogaster* using Wasserstein Geometry
 
 ---
 
