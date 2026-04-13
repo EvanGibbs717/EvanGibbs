@@ -7,28 +7,18 @@ redirect_from:
   - /research.html
 ---
 
-## Research Interests
-
-- Mathematical Ecology  
-- Dynamical Systems  
-- Optimal Control Theory
-- Analysis
-  
----
-
 ## Research Projects (from most recent to oldest)
 
 ### Optimal Sex-Structured Release Strategies of *Wolbachia*-infected *Aedes aegypti* Mosquitoes     
 
-[**Presentation**](https://evangibbs717.github.io/EvanGibbs/files/CV_EvanGibbs_2026.pdf)
+[**Presentation**](https://evangibbs717.github.io/EvanGibbs/files/Wolbachia_OC.pdf)
 
-[**Poster**](https://evangibbs717.github.io/EvanGibbs/files/CV_EvanGibbs_2026.pdf)
 
 ---
 
 ### Elucidating the Hetereogeneity of Wing Morphology in *D. melanogaster* using Wasserstein Geometry
 
-[**Presentation**](https://evangibbs717.github.io/EvanGibbs/files/CV_EvanGibbs_2026.pdf)
+[**Presentation**](https://evangibbs717.github.io/EvanGibbs/files/Wass_Fly.pdf)
 
 [**Poster**](https://evangibbs717.github.io/EvanGibbs/files/Final_Poster_EG.pdf)
 
