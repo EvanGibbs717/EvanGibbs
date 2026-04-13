@@ -32,7 +32,7 @@ dengue prevention](https://evangibbs717.github.io/EvanGibbs/files/CV_EvanGibbs_2
 
 **Presentation:** [Elucidating the Hetereogeneity of Wing Morphology in *D. melanogaster* using Wasserstein Geometry](https://evangibbs717.github.io/EvanGibbs/files/CV_EvanGibbs_2026.pdf)
 
-**Poster:** [Elucidating the Hetereogeneity of Wing Morphology in *D. melanogaster* using Wasserstein Geometry](https://evangibbs717.github.io/EvanGibbs/files/CV_EvanGibbs_2026.pdf)
+[**Poster:**](https://evangibbs717.github.io/EvanGibbs/files/Final_Poster_EG.pdf)
 
 ---
 
