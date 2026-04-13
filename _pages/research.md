@@ -7,7 +7,7 @@ redirect_from:
   - /research.html
 ---
 
-## Research Projects (from most recent to oldest)
+# Research Projects (from most recent to oldest)
 
 ### Optimal Sex-Structured Release Strategies of *Wolbachia*-infected *Aedes aegypti* Mosquitoes     
 
