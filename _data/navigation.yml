@@ -13,9 +13,6 @@ main:
 
   - title: "Fishing and Outdoors"
     url: /outdoors/
-
-  - title: "Music"
-    url: /music/
     
   - title: "About Me"
     url: /aboutme/
