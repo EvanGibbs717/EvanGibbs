@@ -10,7 +10,7 @@ redirect_from:
 **Name:** Evan Gibbs  
 **Birthplace:** Dover, Pennsylvania  
 **Undergraduate Institution:** [York College of Pennsylvania](https://www.ycp.edu/)  
-**Graduate Institution:** TBD  
+**Graduate Institution:** [Northwestern University](https://www.mccormick.northwestern.edu/applied-math/)  
 **Curriculum Vitae:** [PDF](https://evangibbs717.github.io/EvanGibbs/files/CV_EvanGibbs_2026.pdf)
 
 **Me and My Family!**
