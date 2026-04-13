@@ -10,9 +10,6 @@
 main:
   - title: "Research and Academics"
     url: /research/
-    
-  - title: "Research Projects"
-    url: /researchprojects/
 
   - title: "Fishing and Outdoors"
     url: /outdoors/
