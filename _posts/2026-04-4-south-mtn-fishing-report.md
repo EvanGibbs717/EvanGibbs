@@ -1,29 +1,29 @@
 ---
-title: "Pinchot Lake Fishing Report #1"
-date: 2026-03-14
+title: "Mountain and Conococheague Creeks Fishing Report #3"
+date: 2026-04-04
 categories: outdoors
-tags: [fishing, catfish]
+tags: [fishing, trout]
 ---
 
-## Pinchot Lake – March 14, 2026
+## Mountain and Conococheague Creeks – April 04, 2026
 
-**Location:** Pinchot Lake, Warrington Township, PA
+**Location:** Michaux State Forest, Cooke Township, PA
 
-**Coordinates:** 40°05'25.9"N 76°52'28.1"W
+**Coordinates:** 39°59'21.6"N 77°23'30.0"W
 
-**Time Fished:** 12:00 PM - 4:00 PM
+**Time Fished:** 8:00 PM - 2:00 PM
 
-**Weather:** Overcast and windy (gusts of up to 20mph) 
+**Weather:** Sunny and Clear 
 
-**Air Temperature:** 50°F (10°C)
+**Air Temperature:** 60°F (15.56°C)
 
-**Water Temperature:** 43°F (6.11°C)
+**Water Temperature:** 37°F (2.78°C)
 
-**Rig Used:** Slip sinker (1.5 oz) rig. 
+**Rig Used:** Split-shot single hook rig. 
 
-Saturday was a pretty cold and blustery day for fishing (especially given it being 80°F earlier in the week). I fished the opposing side of the dam at Pinchot Lake, just turning the bend. Orginially, the main target species was hybrid striped bass (*Morone chrysops* × *M. saxatilis*). However, I only managed to catch 3 decently sized channel catfish (*Ictalurus punctatus*). These fish were caught on a simple slip sinker rig with the rig leader constructed using *FOX* camouflage. The bait used was chicken liver purchased from *Giant*. All fish were taken in approximately 15 ft of water while fishing a steeper shelf at the given location.
+Today was the opening day of trout season in Pennsylvania. Instead of bumping shoulders with the large crowds of fisherman targeting stocked trout, I decided to fish the secluded creeks near Pine Grove Furnace State Park for native brook trout (*Salvelinus fontinalis*) populations. I caught 10 brook trout, varying in size from a 6 to 10 inches. All were caught on live nightcrawlers, often drifting the bait underneath bridges or bank undercuts. Although the fish today may not have been that large, it made for a much more enjoyable day than the insanity of opening day of stocked trout fishing.
 
-![Fishing1](https://evangibbs717.github.io/EvanGibbs/images/Catfish1_Pinchot_3-14-26.JPG)
-![Fishing1](https://evangibbs717.github.io/EvanGibbs/images/Catfish2_Pinchot_3-14-26.JPG)
+![Fishing1]()
+![Fishing1]()
 
 
