@@ -23,7 +23,9 @@ tags: [fishing, trout]
 
 Today was the opening day of trout season in Pennsylvania. Instead of bumping shoulders with the large crowds of fisherman targeting stocked trout, I decided to fish the secluded creeks near Pine Grove Furnace State Park for native brook trout (*Salvelinus fontinalis*) populations. I caught 10 brook trout, varying in size from a 6 to 10 inches. All were caught on live nightcrawlers, often drifting the bait underneath bridges or bank undercuts. Although the fish today may not have been that large, it made for a much more enjoyable day than the insanity of opening day of stocked trout fishing.
 
-![Fishing1]()
-![Fishing1]()
+![Fishing1](https://evangibbs717.github.io/EvanGibbs/images/IMG_4915.jpeg)
+![Fishing2](https://evangibbs717.github.io/EvanGibbs/images/IMG_4911.jpeg)
+![Fishing3](https://evangibbs717.github.io/EvanGibbs/images/IMG_3508.jpeg)
+![Fishing4](https://evangibbs717.github.io/EvanGibbs/images/IMG_3506.mov)
 
 
