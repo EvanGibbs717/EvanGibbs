@@ -1,6 +1,6 @@
 ---
 title: "Lake Marburg Fishing Report #4"
-date: 2026-04-04
+date: 2026-04-17
 categories: outdoors
 tags: [fishing, Common Carp]
 ---
