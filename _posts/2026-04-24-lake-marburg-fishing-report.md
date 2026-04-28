@@ -1,35 +1,39 @@
 ---
-title: "Lake Marburg Fishing Report #4"
-date: 2026-04-17
+title: "Lake Marburg Fishing Report #5"
+date: 2026-04-24
 categories: outdoors
 tags: [fishing, Common Carp]
 ---
 
-## Lake Marburg – April 17, 2026
+## Lake Marburg – April 24, 2026
 
 **Location:** Lake Marburg, Codorus State Park, Hanover, PA
 
 **Coordinates:** 39°47'26.1"N 76°54'03.8"W
 
-**Time Fished:** 10:30 AM - 5:00 PM
+**Time Fished:** 1:45 PM - 8:00 PM
 
-**Weather:** Sunny and Partially Cloudy 
+**Weather:** Mixed weather (Sunny, Cloudy, and Rainy)
 
-**Air Temperature:** 80°F (26.67°C)
+**Air Temperature:** 70°F (26.67°C)
 
 **Water Temperature:** Not Taken
 
 **Rig Used:** Hair rig on sliding method lead, using secret bait (ha!).
 
-I took off of work friday to spend my time fishing (as all should do every now and then). This is actually somewhat of an early start to the spring/early summer carp season here at Lake Marburg. I was not expecting anything crazy (and possibly no fish). That being said, though the day turned out well, the fishing was not necessarily easy. I spent the first 3-ish hours without any bites, nor indications of any life. This lead to me befriending a couple of geese, who eventually used me to get a few of my plaintain chips I was eating. However, around 1:30 PM, I got my first and largest fish of the day. This common carp (first image) weighed in at around 20 pounds. I then caught 6 more carp within the next 2 hours, leading us to a total of 7.
+On Friday I got a bit of a late start after shopping and taking my sister to the train station in Lancaster. I met my friends Ryan and Tommy to try and target carp down at the lake. Ryan has never went fishing here, so I was definitely excited to put him onto some fish. That being said, the fishing was not easy whatsoever. For about 4.25 hours, we got no hits nor signs of action from the carp rods, and things were looking bleak. This period of time was also broken up by a rainstorm, forcing us to our cars.
 
-At one point, I had caught one carp, taken my photo, and as I was releasing it, I had another. Also, for the first time in my fishing life, I caught a carp instantly upon casting out. Must have been a lucky cast! Altogether, it looks like the carp fishing is beginning to warm up for this year. I believe fishing locations with gradual drop offs and large weed beds/intermittent sandy bottoms will prove fruitful for finding these fish. Most fish still seem to be moving in schools/pods and large feeding areas should attract such groupings.
+Following the rainstorm, things did improve (though not right away). Tommy managed to find a school of small carp near the marina rental area. One of the carp was albino (or of a koi variety). Interspersed with these fish were largemouth bass, bluegills, and the occasional white perch. Unfortunately, these fish wanted nothing to do with us. This is not terribly suprising given the pressure that that location receives. However, during this sighting near the dock, Ryan hooked into a very nice carp while both Tommy and I were away. He managed to get it close to shore before it popped the hook. This fish looked on the order of 20 lbs. 
 
-![Fishing1](https://evangibbs717.github.io/EvanGibbs/images/IMG_5011.jpeg)
-![Fishing2](https://evangibbs717.github.io/EvanGibbs/images/IMG_5037.jpeg)
-![Fishing3](https://evangibbs717.github.io/EvanGibbs/images/IMG_5054.jpeg)
-![Fishing4](https://evangibbs717.github.io/EvanGibbs/images/IMG_5062.jpeg)
-![Fishing5](https://evangibbs717.github.io/EvanGibbs/images/IMG_5077.jpeg)
-![Fishing6](https://evangibbs717.github.io/EvanGibbs/images/IMG_5117.jpeg)
+This loss was shortly followed by another (once again with Ryan!). Using some (let's say interesting) tactics, Ryan hooked into a decent sized largemouth which came off right at the shore. I think the group's morale was definitely at a low at this point. However, we quickly rebounded with 4 common carp to round off the night: 1 for me, 2 for Tommy, and 1 for Ryan. Tommy's and my carp were on the smaller side, with Ryan's being the largest by far. Though not weighed, I would gauge it was in the high teens by weight (pounds). All in all, it was a tough day, but we made it work!
+
+
+
+
+
+![Fishing1](https://evangibbs717.github.io/EvanGibbs/images/IMG_3488.jpeg)
+![Fishing2](https://evangibbs717.github.io/EvanGibbs/images/IMG_3471.jpeg)
+![Fishing3](https://evangibbs717.github.io/EvanGibbs/images/IMG_5143.jpeg)
+
 
 
