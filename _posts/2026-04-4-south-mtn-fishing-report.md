@@ -26,6 +26,6 @@ Today was the opening day of trout season in Pennsylvania. Instead of bumping sh
 ![Fishing1](https://evangibbs717.github.io/EvanGibbs/images/IMG_4915.jpeg)
 ![Fishing2](https://evangibbs717.github.io/EvanGibbs/images/IMG_4911.jpeg)
 ![Fishing3](https://evangibbs717.github.io/EvanGibbs/images/IMG_3508.jpeg)
-![Fishing4](https://evangibbs717.github.io/EvanGibbs/images/IMG_3506.mov)
+[Watch Video](https://evangibbs717.github.io/EvanGibbs/images/IMG_3506.mov)
 
 
