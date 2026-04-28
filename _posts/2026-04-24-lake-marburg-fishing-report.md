@@ -27,7 +27,7 @@ Following the rainstorm, things did improve (though not right away). Tommy manag
 
 This loss was shortly followed by another (once again with Ryan!). Using some (let's say interesting) tactics, Ryan hooked into a decent sized largemouth which came off right at the shore. I think the group's morale was definitely at a low at this point. However, we quickly rebounded with 4 common carp to round off the night: 1 for me, 2 for Tommy, and 1 for Ryan. Tommy's and my carp were on the smaller side, with Ryan's being the largest by far. Though not weighed, I would gauge it was in the high teens by weight (pounds). All in all, it was a tough day, but we made it work!
 
-![Fishing1](https://evangibbs717.github.io/EvanGibbs/images/IMG_3488.jpeg)
+![Fishing1](https://evangibbs717.github.io/EvanGibbs/images/IMG_3448.jpeg)
 ![Fishing2](https://evangibbs717.github.io/EvanGibbs/images/IMG_3471.jpeg)
 ![Fishing3](https://evangibbs717.github.io/EvanGibbs/images/IMG_5143.jpeg)
 
